@@ -1,10 +1,10 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: Computer Science
+  institute: Ecole Nationale Supérieure d'Informatique
+  dates: 2018 - present
+  logo: esi.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
+- course: Secondary Education
+  institute: 18th February Seconday School, Ouled si Ahmed.
+  dates: 2015 - 2018
   logo: fellowship.svg
   
