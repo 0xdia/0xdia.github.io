@@ -1,4 +1,10 @@
-- role: Lifeguard
-  company: CSP Sétif
-  dates: Summer 2017
-  logo: ess.png
+- role: Member
+  company: Shellmates club
+  date: October 2019 - present
+  logo: shellmates.png
+
+- role: Member
+  company: School of AI, Algiers
+  date: January 2021 - present
+  logo: ai.jpg
+
